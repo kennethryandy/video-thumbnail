@@ -1,0 +1,6 @@
+{
+    "name": "dyken/video-thumbnail",
+    "require": {
+        "sociallydev/spaces-api": "v2"
+    }
+}
